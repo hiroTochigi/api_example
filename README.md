@@ -2,6 +2,8 @@
 
 This is a sample Node.js project that provides a REST API for managing users.
 
+This project, including this README.md file, was generated using ChatGPT. I only copied and pasted the content.
+
 ## Prerequisites
 
 - Docker
