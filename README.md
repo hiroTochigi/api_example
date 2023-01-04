@@ -14,13 +14,13 @@ This project, including this README.md file, was generated using ChatGPT. I only
 1. Clone the repository:
 
 ```
-git clone https://github.com/<username>/my-node-project.git
+git clone https://github.com/hiroTochigi/api_example.git
 ```
 
 2. Install the dependencies:
 
 ```
-cd my-node-project
+cd api_example
 npm install
 ```
 
